@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>d8631e53-5f1e-4c90-b1a1-e3aebc8ec9ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>5acffab8-4aca-47d9-b9d6-949cc3e4fea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>3eae1c1c-3194-48d1-bf52-1450774ca0e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M3.707 2.293a1 1 0 00-1.414 1.414l14 14a1 1 0 001.414-1.414l-1.473-1.473A10.014 10.014 0 0019.542 10C18.268 5.943 14.478 3 10 3a9.958 9.958 0 00-4.512 1.074l-1.78-1.781zm4.261 4.26l1.514 1.515a2.003 2.003 0 012.45 2.45l1.514 1.514a4 4 0 00-5.478-5.478z</value>
+      <webElementGuid>6d7b4a58-bd80-47d1-820f-f529fcaa525c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>clip-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>faf39e87-fc33-430b-8aac-38b069e38a38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;h-screen overflow-hidden stars_screens__yuzkC&quot;]/div[@class=&quot;w-screen h-screen flex items-center justify-center&quot;]/div[@class=&quot;bg-[#242526] p-10 w-[550px] rounded-md m-4 z-10&quot;]/div[@class=&quot;mt-9&quot;]/form[@class=&quot;mt-3&quot;]/label[2]/div[@class=&quot;relative&quot;]/span[@class=&quot;text-white absolute top-1/2 right-4&quot;]/svg[@class=&quot;w-6 h-6 text-darkmode-disabled&quot;]/path[1]</value>
+      <webElementGuid>effd6bec-4411-43b7-8f00-a97c40535408</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

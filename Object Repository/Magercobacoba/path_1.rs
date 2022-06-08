@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>24f92bce-615e-4f99-b479-9fc2d6137e43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>d07c2ba7-55ea-41cc-88a0-a839a477c826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>85b7b5d8-2bdb-47be-9391-015408a373ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z</value>
+      <webElementGuid>dffd6fe8-773e-4526-83ff-949b21d87319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>clip-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>c1fd4747-1c89-4a25-beec-f6282c9320db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;h-screen overflow-hidden stars_screens__yuzkC&quot;]/div[@class=&quot;w-screen h-screen flex items-center justify-center&quot;]/div[@class=&quot;bg-[#242526] p-10 w-[550px] rounded-md m-4 z-10&quot;]/div[@class=&quot;mt-9&quot;]/form[@class=&quot;mt-3&quot;]/label[2]/div[@class=&quot;relative&quot;]/span[@class=&quot;text-white absolute top-1/2 right-4&quot;]/svg[@class=&quot;w-6 h-6 text-darkmode-disabled&quot;]/path[2]</value>
+      <webElementGuid>9c40c2b9-3375-4993-ae52-0a3bf19b1efa</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
