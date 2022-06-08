@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>mencari karyawan berdasarkan jobnya</description>
+   <name>CariJobKaryawan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeaa90af-2f25-41f8-8896-e376d6ea1c4c</testCaseGuid>
+</TestCaseEntity>
